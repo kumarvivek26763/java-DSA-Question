@@ -2,7 +2,7 @@ package day3Pattren;
 
 import java.util.Scanner;
 
-public class Diagonal {
+public class DiagonalP8 {
     public static void main(String[] args) {
            int n;
         Scanner sc= new Scanner(System.in);

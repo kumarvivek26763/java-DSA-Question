@@ -2,7 +2,7 @@ package day3Pattren;
 
 import java.util.Scanner;
 
-public class Mattrix {
+public class MattrixP7 {
      public static void main(String[] args) {
            int n;
         Scanner sc= new Scanner(System.in);
